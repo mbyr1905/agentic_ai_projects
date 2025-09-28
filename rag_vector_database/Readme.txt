@@ -1,0 +1,1 @@
+Checking Phidata to get the suitable Vectordb. 
