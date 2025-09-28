@@ -7,3 +7,8 @@ duckduckgo-search
 fastapi
 uvicorn
 python-multipart
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+ollama
