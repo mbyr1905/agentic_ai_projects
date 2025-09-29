@@ -12,3 +12,7 @@ pgvector
 psycopg[binary]
 pypdf
 ollama
+streamlit
+phidata
+google-generativeai
+duckduckgo-search
